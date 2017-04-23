@@ -1,5 +1,6 @@
 # ADBMS
 Domain: Health Analytics
+
 US opiate overdoses:
 Accidental death by fatal drug overdose is a rising trend in the United States.
 This dataset contains summaries of prescription records for 250 common opioid and non-opioid drugs written by 25,000 unique licensed medical professionals in 2014 in the United States for citizens covered under Class D Medicare as well as some metadata about the doctors themselves. This data is sourced from cms.gov. The full dataset contains almost 24 million prescription instances in long format.
